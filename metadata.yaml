@@ -1,0 +1,31 @@
+_repo: Electricity-for-Boys_22766
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zerbe, James Slough
+    alias: Zerbe, J. S.
+    birthdate: 1850
+    gutenberg_agent_id: '635'
+    url: http://www.gutenberg.org/2009/agents/635
+description: ''
+gutenberg_bookshelf:
+- Children's Instructional Books
+- Technology
+gutenberg_issued: '2007-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22766'
+  lccn: '14011146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TK'
+- !lcsh 'Electric apparatus and appliances'
+- !lcsh 'Electrical engineering -- Juvenile literature'
+title: Electricity for Boys
+url: http://www.gutenberg.org/ebooks/22766
