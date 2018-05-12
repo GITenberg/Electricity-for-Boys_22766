@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '635'
     url: http://www.gutenberg.org/2009/agents/635
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22766#Electricity-for-Boys
 gutenberg_bookshelf:
 - Children's Instructional Books
 - Technology
